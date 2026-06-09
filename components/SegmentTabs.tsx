@@ -18,9 +18,9 @@ export function SegmentTabs() {
             <Reveal key={segment.label} delay={index * 0.05}>
               <a
                 href="#stories"
-                className={`inline-flex rounded-full border px-6 py-3 text-lg font-black transition ${
+                className={`inline-flex min-w-fit items-center justify-center rounded-full border px-7 py-4 text-lg font-black leading-none transition ${
                   index === 0
-                    ? "border-[#101820] bg-[#101820] text-white"
+                    ? "border-[#101820] bg-[#101820] !text-white"
                     : "border-[#d4d7dc] bg-white text-[#393a3d] hover:border-[#101820]"
                 }`}
               >
