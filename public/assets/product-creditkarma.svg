@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="520" viewBox="0 0 620 520" role="img" aria-labelledby="title">
+  <title>Credit Karma product experience</title>
+  <rect width="620" height="520" rx="34" fill="#ECFDF5"/>
+  <circle cx="116" cy="92" r="62" fill="#BBF7D0"/>
+  <rect x="116" y="68" width="388" height="384" rx="34" fill="#fff"/>
+  <text x="154" y="132" fill="#111827" font-family="Arial, sans-serif" font-size="30" font-weight="700">Credit score</text>
+  <circle cx="310" cy="260" r="116" fill="none" stroke="#DCFCE7" stroke-width="28"/>
+  <path d="M215 260a95 95 0 0 1 174-53" fill="none" stroke="#008600" stroke-linecap="round" stroke-width="28"/>
+  <text x="310" y="262" fill="#008600" font-family="Arial, sans-serif" font-size="72" font-weight="800" text-anchor="middle">742</text>
+  <text x="310" y="298" fill="#475569" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Very good</text>
+  <rect x="154" y="386" width="312" height="18" rx="9" fill="#DCFCE7"/>
+  <rect x="154" y="386" width="228" height="18" rx="9" fill="#008600"/>
+  <rect x="414" y="130" width="126" height="104" rx="26" fill="#F0FDF4"/>
+  <text x="477" y="174" fill="#008600" font-family="Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle">Matched</text>
+  <text x="477" y="202" fill="#111827" font-family="Arial, sans-serif" font-size="26" font-weight="800" text-anchor="middle">3</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="520" viewBox="0 0 620 520" role="img" aria-labelledby="title">
+  <title>TurboTax product experience</title>
+  <rect width="620" height="520" rx="34" fill="#EFF6FF"/>
+  <circle cx="508" cy="96" r="68" fill="#DBEAFE"/>
+  <rect x="94" y="58" width="304" height="404" rx="34" fill="#fff"/>
+  <rect x="118" y="90" width="256" height="54" rx="18" fill="#F8FAFC"/>
+  <circle cx="148" cy="117" r="14" fill="#D52B1E"/>
+  <rect x="174" y="107" width="134" height="12" rx="6" fill="#111827"/>
+  <rect x="174" y="127" width="78" height="8" rx="4" fill="#94A3B8"/>
+  <text x="126" y="202" fill="#111827" font-family="Arial, sans-serif" font-size="30" font-weight="700">Your refund</text>
+  <text x="126" y="252" fill="#205EA8" font-family="Arial, sans-serif" font-size="56" font-weight="800">$3,482</text>
+  <rect x="126" y="290" width="220" height="16" rx="8" fill="#DBEAFE"/>
+  <rect x="126" y="290" width="156" height="16" rx="8" fill="#205EA8"/>
+  <rect x="126" y="342" width="220" height="48" rx="24" fill="#205EA8"/>
+  <text x="236" y="373" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">File smarter</text>
+  <rect x="360" y="252" width="164" height="148" rx="28" fill="#fff"/>
+  <path d="M406 333c24-48 70-58 92-8" fill="none" stroke="#D52B1E" stroke-linecap="round" stroke-width="18"/>
+  <circle cx="452" cy="312" r="18" fill="#D52B1E"/>
+</svg>

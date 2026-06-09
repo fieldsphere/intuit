@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="520" viewBox="0 0 620 520" role="img" aria-labelledby="title">
+  <title>QuickBooks product experience</title>
+  <rect width="620" height="520" rx="34" fill="#F0FDF4"/>
+  <rect x="82" y="64" width="456" height="392" rx="34" fill="#fff"/>
+  <rect x="112" y="96" width="396" height="66" rx="22" fill="#F8FAFC"/>
+  <circle cx="146" cy="129" r="16" fill="#2CA01C"/>
+  <text x="178" y="135" fill="#111827" font-family="Arial, sans-serif" font-size="20" font-weight="700">Business overview</text>
+  <rect x="112" y="196" width="170" height="114" rx="24" fill="#ECFDF5"/>
+  <text x="138" y="238" fill="#475569" font-family="Arial, sans-serif" font-size="16" font-weight="700">Cash flow</text>
+  <text x="138" y="278" fill="#2CA01C" font-family="Arial, sans-serif" font-size="38" font-weight="800">$42.8k</text>
+  <rect x="316" y="196" width="170" height="114" rx="24" fill="#EFF6FF"/>
+  <text x="342" y="238" fill="#475569" font-family="Arial, sans-serif" font-size="16" font-weight="700">Invoices</text>
+  <text x="342" y="278" fill="#236CFF" font-family="Arial, sans-serif" font-size="38" font-weight="800">18</text>
+  <path d="M128 384c46-52 76-18 116-50 36-29 64-45 110-8 34 27 70 26 118-28" fill="none" stroke="#2CA01C" stroke-linecap="round" stroke-width="16"/>
+  <circle cx="472" cy="298" r="60" fill="#DCFCE7"/>
+  <path d="M440 300h64M472 268v64" stroke="#2CA01C" stroke-linecap="round" stroke-width="14"/>
+</svg>
