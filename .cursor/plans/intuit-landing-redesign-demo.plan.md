@@ -4,31 +4,31 @@ overview: A lightweight Next.js (App Router + TypeScript + Tailwind) full-stack 
 todos:
   - id: scaffold
     content: Scaffold Next.js + TypeScript + Tailwind + Framer Motion project in workspace root
-    status: in_progress
+    status: completed
   - id: backend
     content: "Add content data in lib/ (products, stories) + single API route handler: /api/subscribe"
-    status: pending
+    status: completed
   - id: layout-nav
     content: Build root layout, Intuit brand tokens/globals, promo bar, and sticky top Nav with mega-menu items
-    status: pending
+    status: completed
   - id: hero
     content: Build hero ("Outdo your financial goals—all in one place") with CTA matching intuit.com
-    status: pending
+    status: completed
   - id: assets
     content: Fetch real Intuit + product logos/imagery into public/ for max fidelity
-    status: pending
+    status: completed
   - id: products
     content: Build the four product feature sections (TurboTax, Credit Karma, QuickBooks, Mailchimp) with real copy + outbound links
-    status: pending
+    status: completed
   - id: footer
     content: Build the full footer (product columns, company links, legal row) and email capture
-    status: pending
+    status: completed
   - id: stubs
     content: Add lightweight stubs for value tabs, segment tabs, customer stories, news cards, and 'Driving success together'
-    status: pending
+    status: completed
   - id: verify
     content: Add README, run build/dev, and verify sections render, links work, and API calls succeed
-    status: pending
+    status: completed
 isProject: false
 ---
 
